@@ -24,3 +24,11 @@ This application helps users track asks to be done like a todo list.
     tracker mark-in-progress 2 will mark the task with id 2 as in-progress
     tracker mark-done 2 will mark the task with id 2 as done
     tracker delete 2 will delete the task with id 2
+ ## Installation
+
+To install and run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/KoredeO/cli-task-tracker
+   
