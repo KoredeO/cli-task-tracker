@@ -38,6 +38,5 @@ To install and run this project locally, follow these steps:
    git clone https://github.com/KoredeO/cli-task-tracker
 
  ## Project URL
-
-You can find the source code and documentation here: https://github.com/KoredeO/cli-task-tracker
+https://github.com/KoredeO/cli-task-tracker
    
