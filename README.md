@@ -2,10 +2,7 @@
  
 This application helps users track asks to be done like a todo list.
 
-## Project URL
-[GitHub Repository](https://github.com/username/repository-name)
-
-
+Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from roadmap.sh
 
 ## Features:
 - Add new tasks.
