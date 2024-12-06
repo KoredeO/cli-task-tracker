@@ -4,7 +4,7 @@ This application helps users track asks to be done like a todo list.
 
 ## Project URL
 
-You can find the source code and documentation here: [Todo List CLI GitHub Repository](https://github.com/KoredeO/cli-task-tracker)
+You can find the source code and documentation here:https://github.com/KoredeO/cli-task-tracker
 
 
 ## Features:
