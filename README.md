@@ -1,4 +1,4 @@
-# cli task tracker
+# CLI task tracker
  
 This application helps users track asks to be done like a todo list.
 
