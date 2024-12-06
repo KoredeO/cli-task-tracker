@@ -3,7 +3,7 @@
 //  #!/usr/bin/env node (#bang) tells the OS the interpreter to use
 
 const helper = require("./helper.js");
-// console.log(process.argv);
+
 const helpText = `Valid Commands:
     tracker add <task name >
     tracker list <status>
@@ -25,7 +25,7 @@ const helpText = `Valid Commands:
     tracker mark-done 2 will mark the task with id 2 as done
     tracker delete 2 will delete the task with id 2
     `
-if(process.argv.length >1){
+if(process.argv.length >2){
     switch (process.argv[2]) {
         case "add":
             if(process.argv[3]){
